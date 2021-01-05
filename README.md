@@ -18,4 +18,4 @@ This is a text mining project to analyze messages sent from the couple's chattin
 <img src="images/tableau_dashboard_final.PNG" width=1000>
 
 
-<img src="images/hubby_wc.png" width=400> <img src="images/wifey_wc.png" width=400>
+<img align="center" img src="images/hubby_wc.png" width=400> <img align="center" img src="images/wifey_wc.png" width=400>
