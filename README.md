@@ -5,6 +5,19 @@ Tableau Dashboard [Link](https://public.tableau.com/views/RelationshipTextsProje
 ## Project Overview
 This text mining project to analyzes messages sent from the couple's chatting app called [Between](https://between.us/?lang=en).
 
+| Totals |
+|--------|
+| 1113 Days |
+| 144,011 Messages |
+| 694,967 Words |
+
+|          Sender        |    BF   |    GF    |
+| --------------------- | ------------- | --------- |
+|  Number of Messages  |     80,007    |   64,004  |
+|      Word Count    |     384,341    |   310,626  |
+|        Avg Message Length        |     24.3    |   24.6  |
+|        Avg Messages Per Day        |     89    |   72  |
+
 
 ### Part 1: Data Cleaning and Preprocessing 
 * Export data from the app as a text file and then convert to an .xlsx
